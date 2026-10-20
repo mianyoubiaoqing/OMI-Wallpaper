@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OMI Wallpaper</string>
+    <string name="slider_value">%1$s  ·  %2$d</string>
+    <string name="wallpaper_description">轻风拂过发梢，指尖唤起流光。OMI 互动动态壁纸。</string>
+</resources>

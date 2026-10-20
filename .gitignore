@@ -1,0 +1,26 @@
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+dist/
+artifacts/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.apk
+*.aab
+*.log
+*.hprof
+.codex*/
+.android/
+.tools/
+reference/
+# Private, locally supplied textures must never be added by accident.
+app/src/main/assets/wallpaper/
